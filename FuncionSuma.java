@@ -27,7 +27,7 @@ public class FuncionSuma {
 	}
 	
 	
-	//Correcion realizado
+	
 	private static int suma (int sumando1, int sumando2) {
 		return sumando1+sumando2;
 	}
